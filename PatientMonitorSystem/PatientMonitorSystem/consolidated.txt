@@ -1,0 +1,14 @@
+Consolidated Data Record (patient1) - <oxygen1, Oxygen, RUNNING, <0.0, 50.0>, 6, 0, 96.3, 97.0, 95.0>
+Consolidated Data Record (patient1) - <temp1, Temperature, RUNNING, <0.0, 50.0>, 6, 0, 36.6, 37.0, 35.0>
+Consolidated Data Record (patient1) - <bp1, Blood Pressure, RUNNING, <0.0, 50.0>, 6, 0, 88.5, 101.7, 70.0>
+Consolidated Data Record (patient2) - <oxygen2, Oxygen, RUNNING, <0.0, 50.0>, 6, 0, 96.3, 97.0, 95.0>
+Consolidated Data Record (patient2) - <temp2, Temperature, RUNNING, <0.0, 50.0>, 6, 0, 36.6, 37.0, 35.0>
+Consolidated Data Record (patient2) - <bp2, Blood Pressure, RUNNING, <0.0, 50.0>, 6, 0, 1740.4, 6692.7, 70.0>
+Consolidated Data Record (patient1) - <oxygen1, Oxygen, RUNNING, <60.0, 110.0>, 6, 0, 93.0, 98.0, 90.0>
+Consolidated Data Record (patient1) - <temp1, Temperature, RUNNING, <60.0, 110.0>, 6, 0, 37.4, 38.5, 36.5>
+Consolidated Data Record (patient1) - <bp1, Blood Pressure, RUNNING, <60.0, 110.0>, 6, 0, 85.2, 98.0, 71.7>
+Consolidated Data Record (patient2) - <temp2, Temperature, RUNNING, <60.0, 110.0>, 6, 0, 1697.8, 9999.0, 36.5>
+Consolidated Data Record (patient2) - <bp2, Blood Pressure, RUNNING, <60.0, 110.0>, 6, 0, 1185.9, 6694.3, 71.7>
+Consolidated Data Record (patient1) - <oxygen1, Oxygen, RUNNING, <120.0, 130.0>, 2, 0, 98.5, 99.0, 98.0>
+Consolidated Data Record (patient1) - <temp1, Temperature, RUNNING, <120.0, 130.0>, 2, 0, 37.0, 37.0, 37.0>
+Consolidated Data Record (patient1) - <bp1, Blood Pressure, RUNNING, <120.0, 130.0>, 2, 0, 88.7, 95.0, 82.3>
